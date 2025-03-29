@@ -2,9 +2,9 @@
 Assignment 4: Wordle
 
 ## Deliverables:  
-### wordle.html
-### wordle.css
-### wordle.js
+### wordle.html https://aboone08.github.io/dgmde28_assignment4/wordle.html
+### wordle.css https://aboone08.github.io/dgmde28_assignment4/wordle.css
+### wordle.js https://aboone08.github.io/dgmde28_assignment4/wordle.js
 (https://aboone08.github.io/dgmde28_assignment4/)
 
 ### Question
