@@ -55,10 +55,17 @@ button {
     font-size: 16px;
 }
 
-/* Responsive Design for Screens Down to 600px */
+/* Responsive Design for Screens Down to 700px */
 @media (max-width: 700px) {
     .game-container {
         width: 90%;
+        padding: 15px;
+    }
+}
+
+/* Responsive Design for Screens Down to 600px */
+@media (max-width: 600px) {
+    .game-container {
         padding: 15px;
     }
 
