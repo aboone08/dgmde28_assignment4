@@ -9,10 +9,10 @@ Assignment 4: Wordle
 
 ### Question
 #### a) What was the API you used – and why (include the url to the source)
-<li>
-  <ul>I used the following API: https://random-word-api.herokuapp.com/home</ul>
-  <ul>I chose this API because I did a simple search for a random word generator and this was the first result that Google displayed. After taking a look I saw how I could easily limit the length of the generated word which is a requirement for this assignment to max out at a length of five.</ul>
-</li>
+
+I used the following API: https://random-word-api.herokuapp.com/home</ul>
+I chose this API because I did a simple search for a random word generator and this was the first result that Google displayed. After taking a look I saw how I could easily limit the length of the generated word which is a requirement for this assignment to max out at a length of five.
+
 
 #### b) What was the most satisfying part of this assignment?
 
