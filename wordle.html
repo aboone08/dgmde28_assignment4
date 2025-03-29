@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 4: Wordle</title>
+    <link rel="stylesheet" href="wordle.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>Wordle Game</h1>
+        <label>
+            <input type="checkbox" id="debug-toggle"> Answer Display
+        </label>
+        <div id="word-container"></div>
+        <input type="text" id="guess-input" maxlength="5" placeholder="Enter a 5-letter word">
+        <button id="submit-guess">Submit</button>
+        <p id="message"></p>
+        <p id="used-letters">Used Letters: None</p>
+        <button id="restart">Restart Game</button>
+    </div>
+    <script src="wordle.js"></script>
+</body>
+</html>
